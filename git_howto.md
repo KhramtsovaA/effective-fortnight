@@ -15,6 +15,8 @@ git commit -m "Massege"
 ```
 git log
 ```
-
+Выводит коммиты красивым списком
+```
 git log --oneline
+```
 git checkout
