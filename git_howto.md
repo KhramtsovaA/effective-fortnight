@@ -23,5 +23,10 @@ git log --oneline
 ```
 git checkout
 ```
+Разница между изменениями 
+```
+git diff
+```
+
 
 
