@@ -19,4 +19,9 @@ git log
 ```
 git log --oneline
 ```
+Переходит по коммитам
+```
 git checkout
+```
+
+
