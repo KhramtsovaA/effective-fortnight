@@ -11,7 +11,10 @@ git add
 ```
 git commit -m "Massege"
 ```
-
+Показать коммиты
+```
 git log
+```
+
 git log --oneline
 git checkout
