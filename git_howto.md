@@ -26,13 +26,7 @@ git log --oneline
 ```
 git checkout <branch name>
 ```
-## Разница между изменениями 
-
-```
-git diff
-```
 #  List, create, or delete branches
-
 ```
 git branch <name branch>   
 ```
