@@ -13,7 +13,7 @@ git add
 ```
 Записывать изменения в хранилище
 ```
-git commit -m "Massege"
+git commit -m "Massege text"
 ```sh
 ## Показать коммиты
 ```
