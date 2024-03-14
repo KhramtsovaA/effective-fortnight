@@ -28,7 +28,16 @@ git checkout
 git diff
 ```
     List, create, or delete branches
-    
-```
-branch    
-```
+
+```sh
+
+git branch    
+```sh
+
+Отображение всех веток 
+````sh
+git branch
+```sh
+
+
+
