@@ -27,6 +27,8 @@ git checkout
 ```
 git diff
 ```
-
-
-
+    List, create, or delete branches
+    
+```
+branch    
+```
