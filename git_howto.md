@@ -25,7 +25,7 @@ git log --oneline
 ```
 ## Переходит по веткам
 ```
-git checkout <имя ветки>
+git checkout <branch name>
 ```
 ## Разница между изменениями 
 ```
