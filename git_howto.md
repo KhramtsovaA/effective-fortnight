@@ -31,7 +31,8 @@ git diff
 
 ```sh
 
-git branch    
+git branch <name branch>   
+
 ```sh
 
 Отображение всех веток 
