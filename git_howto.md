@@ -1,4 +1,4 @@
-# Пдсказка по GIT 
+# Подсказка по GIT 
 Создание репозитория:
 
 ```
@@ -31,8 +31,21 @@ git checkout <branch name>
 ```
 git diff
 ```
+<<<<<<< HEAD
 #  List, create, or delete branches
-    
+
 ```
-git branch    
+
+git branch <name branch>   
+
 ```
+
+Отображение всех веток
+
+````
+git branch
+```
+
+
+
+>>>>>>> branch_comand
