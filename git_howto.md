@@ -45,7 +45,8 @@ git branch <name branch>
 ````
 git branch
 ```
+*Создание новой ветки*
+ ```
+git branch <имя>
 
 
-
->>>>>>> branch_comand
