@@ -56,3 +56,7 @@ git status
 # Разница двух состояний 
 ```
 git diff <1> [2]
+
+# Закоммитить все изменения
+```
+git commit -m "all my changes"
